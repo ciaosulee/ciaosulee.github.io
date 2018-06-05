@@ -9,7 +9,7 @@ Update：05/06/2018
   list(DataFrame.iloc[1:5,:])
   list(DataFrame.iloc[:,1:5])
 ```
-*Solution*
+* *Solution*
 
 
 ### Python Grammer Sugar
