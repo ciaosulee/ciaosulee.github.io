@@ -7,7 +7,7 @@ highlight_color: '#3498db'
 social:
   github: ciaosulee
   #bitbucket: philipj
-  #hacker_news: ciaosulee
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
   #twitter: _swanson
@@ -21,10 +21,10 @@ social:
 # "Hi, I'm _______"
 name: Ciaosu Lee
 email: xcli_ciaosu@163.com
-tagline: "mathematics/python"
+tagline: "mathematics & python"
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: 
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
